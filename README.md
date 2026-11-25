@@ -23,7 +23,7 @@ Interfaz oscura con estética neón (cyan / magenta) construida con [CustomTkint
 - **Interfaz fluida**: toda lectura de disco/red y la importación corren en hilos de fondo para no congelar la ventana.
 - **Limpiar / Retroceso**: limpia el formulario y permite recuperar lo que había antes de limpiar.
 - 
-![Pantalla principal del Gestor de Novedades](docs/captura-principal.png)
+![Pantalla principal del Gestor de Novedades](main/captura-principal.png)
 ---
 
 ## 📋 Requisitos
